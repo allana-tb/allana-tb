@@ -12,7 +12,7 @@
 
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanatavares/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:allanatavaresb@gmail.com)
-- My personal website, that you can reach [**here!**](allana-tb.github.io)
+- My personal website, that you can reach [**here!**](https://allana-tb.github.io)
 
 <details>
 <summary><b> <img src="https://slackmojis.com/emojis/13263-bongocat_code/download" width="28" /> Some Github Statistics</a></b></summary>
