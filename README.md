@@ -1,5 +1,5 @@
 <h1 align="center"><samp>&gt; Hello There! I am <b><a>Allana 👋 </a></b></samp> </h1>
-<h3 align="center">I'm currently studying System's Analysis and Development at PUC Minas, in Brazil. Welcome to my GitHub! </h3>
+<h3 align="center">I'm currently studying System's Analysis and Development @ PUC Minas, in Brazil. Welcome to my GitHub! </h3>
 <br>
 
 <img align= "right" width= "240" src= "https://media2.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif?cid=ecf05e478jxatmrfklkwcqkw4sm1waikjfpphlmojoexw090&rid=giphy.gif&ct=g"/>
