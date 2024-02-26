@@ -6,8 +6,6 @@
 
 😄 Pronouns: she/her
 
-👯 I’m looking to collaborate on diverse projects, from front to back end and data science!
-
 📫 How to reach me: 
 
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanatavares/)
